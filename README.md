@@ -8,7 +8,7 @@ Durante mi formación he trabajado en el desarrollo de aplicaciones web y de esc
 
 ---
 
-## Sobre mí
+## 👩‍💻 Sobre mí
 
 * Interesada en **desarrollo de software, backend y aplicaciones web**
 * Experiencia académica trabajando con **bases de datos SQL y NoSQL**
@@ -18,7 +18,7 @@ Durante mi formación he trabajado en el desarrollo de aplicaciones web y de esc
 
 ---
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
 
@@ -54,7 +54,7 @@ Durante mi formación he trabajado en el desarrollo de aplicaciones web y de esc
 
 ---
 
-## Proyectos destacados
+## 📌 Proyectos destacados
 
 ### Movies
 
@@ -76,7 +76,7 @@ Sistema desarrollado para trabajar con diferentes mecanismos de almacenamiento y
 
 Proyecto orientado al aprendizaje de arquitectura de software, persistencia de datos y sistemas distribuidos.
 
-[Ver perfil →](https://github.com/SofiaRV03)
+[Ver repositorio →](https://github.com/SofiaRV03)
 
 ---
 
@@ -88,13 +88,19 @@ Aplicación de escritorio para la gestión de información relacionada con culti
 
 Proyecto desarrollado aplicando una arquitectura por capas para separar la interfaz, la lógica de negocio y el acceso a datos.
 
-[Ver perfil →](https://github.com/SofiaRV03)
+[Ver repositorio →](https://github.com/SofiaRV03)
 
 ---
 
-## Actualmente aprendiendo
+## 📚 Actualmente aprendiendo
 
-[![Learning](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,docker)](https://skillicons.dev)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
 
 * Desarrollo de APIs REST
 * Desarrollo Full Stack
@@ -105,7 +111,7 @@ Proyecto desarrollado aplicando una arquitectura por capas para separar la inter
 
 ---
 
-## Áreas de interés
+## 🔎 Áreas de interés
 
 * Backend Development
 * Desarrollo de APIs REST
@@ -117,17 +123,17 @@ Proyecto desarrollado aplicando una arquitectura por capas para separar la inter
 
 ---
 
-## Objetivo profesional
+## 🎯 Objetivo profesional
 
 Busco seguir desarrollándome en el área de software, ampliando mis conocimientos y adquiriendo experiencia en proyectos reales. Me interesa especialmente el desarrollo backend, las aplicaciones web y las bases de datos, y estoy abierta a nuevas oportunidades que me permitan **aprender, aportar y seguir creciendo como desarrolladora**.
 
 ---
 
-## Contacto
+## 📫 Contacto
 
 **Ubicación:** Colombia
 
-**Email:** [Tu correo]
+**Email:** [sofiarestrepo072005@gmail.com]
 
 **GitHub:** [@SofiaRV03](https://github.com/SofiaRV03)
 
