@@ -131,11 +131,9 @@ Busco seguir desarrollándome en el área de software, ampliando mis conocimient
 
 ## 📫 Contacto
 
-**Ubicación:** Colombia
-
 **Email:** sofiarestrepo072005@gmail.com
 
-**GitHub:** [@SofiaRV03](https://github.com/SofiaRV03)
+**Ubicación:** Colombia
 
 ---
 
