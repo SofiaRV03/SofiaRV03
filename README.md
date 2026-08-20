@@ -1,170 +1,116 @@
-# ¡Hola! 👋 Soy Sofia Restrepo
+# Sofia Restrepo
 
-🎓 **Estudiante de Ingeniería de Sistemas** | 💻 **Software Developer en formación**
+### Estudiante de Ingeniería de Sistemas | Software Development
 
-Soy estudiante de **Ingeniería de Sistemas**, apasionada por el desarrollo de software y por aprender nuevas tecnologías mediante proyectos prácticos.
+Estudiante de Ingeniería de Sistemas en la Universidad Libre, interesada en el desarrollo de software, especialmente en **backend, aplicaciones web y bases de datos**.
 
-Actualmente estoy fortaleciendo mis conocimientos en **desarrollo web, backend, bases de datos, arquitectura de software y desarrollo de aplicaciones**, mientras construyo proyectos que me permitan llevar la teoría de la universidad a soluciones reales.
+Durante mi formación he desarrollado proyectos utilizando diferentes lenguajes y tecnologías, trabajando con aplicaciones web y de escritorio, APIs, bases de datos SQL y NoSQL y diferentes arquitecturas de software.
 
----
-
-## 🚀 Sobre mí
-
-* 🎓 Estudiante de **Ingeniería de Sistemas**
-* 💻 Interesada en **desarrollo de software y desarrollo web**
-* 🌱 Actualmente fortaleciendo mis conocimientos en **Java, Spring Boot, JavaScript y desarrollo Full Stack**
-* 🗄️ Experiencia trabajando con **bases de datos SQL y NoSQL**
-* 🧩 Interés en **arquitectura de software, APIs y sistemas escalables**
-* 🛠️ Me gusta aprender creando proyectos y experimentando con diferentes tecnologías
-* 🎯 Mi objetivo es seguir creciendo como desarrolladora y adquirir experiencia profesional en el desarrollo de software
+Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot, JavaScript, TypeScript y desarrollo Full Stack**.
 
 ---
 
-## 💻 Tecnologías y herramientas
+## Tecnologías
 
 ### Lenguajes
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css)](https://skillicons.dev)
 
-### Backend & Frameworks
+### Backend & Web
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,nextjs)](https://skillicons.dev)
 
 ### Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-### Desarrollo y herramientas
+### Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux)](https://skillicons.dev)
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 🎬 Movies
+### Movies
 
-Aplicación web para gestión y exploración de películas.
+Aplicación web para la gestión y exploración de películas.
 
-**Tecnologías:** Next.js · TypeScript · Prisma · PostgreSQL
+**Stack:** Next.js · TypeScript · Prisma · PostgreSQL
 
-Proyecto enfocado en el desarrollo web moderno, manejo de bases de datos y autenticación de usuarios.
+Proyecto enfocado en desarrollo web moderno, persistencia de datos y autenticación.
 
----
-
-### 🧟 Juego Zombies
-
-Videojuego desarrollado como proyecto de programación utilizando Pygame.
-
-**Tecnologías:** Python · Pygame
-
-Proyecto en el que trabajé conceptos de programación orientada a objetos, manejo de eventos, animaciones, sprites y detección de colisiones.
+[Ver proyecto →](https://github.com/SofiaRV03/movies)
 
 ---
 
-### 🌱 Gestión de cultivos
+### Sistema de Cajeros
+
+Sistema desarrollado en Python para trabajar con diferentes mecanismos de almacenamiento y conceptos relacionados con bases de datos distribuidas.
+
+**Stack:** Python · SQLite · MongoDB · Replica Sets · MVC
+
+Proyecto en el que he trabajado conceptos de arquitectura, persistencia de datos y bases de datos distribuidas.
+
+[Ver proyecto →](https://github.com/SofiaRV03)
+
+---
+
+### Gestión de Cultivos
 
 Aplicación de escritorio para la gestión de información relacionada con cultivos.
 
-**Tecnologías:** Python · PyQt5 · SQLite
+**Stack:** Python · PyQt5 · SQLite
 
-Proyecto desarrollado aplicando una arquitectura por capas y separación de responsabilidades entre la interfaz, lógica y acceso a datos.
+El proyecto utiliza una arquitectura por capas para separar la interfaz, la lógica de negocio y el acceso a datos.
 
----
-
-### 🏧 Sistema de Cajeros
-
-Sistema desarrollado para trabajar con diferentes tecnologías de almacenamiento y conceptos relacionados con sistemas distribuidos.
-
-**Tecnologías:** Python · SQLite · MongoDB · Replica Sets · MVC
-
-Proyecto orientado al aprendizaje de arquitectura de software, persistencia de datos y bases de datos distribuidas.
+[Ver proyecto →](https://github.com/SofiaRV03)
 
 ---
 
-### 🛒 Marketplace
+## Otros proyectos
 
-Aplicación de escritorio para la gestión de un marketplace.
-
-**Tecnologías:** Java 17 · JavaFX · SQLite · MVC · DAO
-
-Proyecto desarrollado aplicando patrones de diseño y separación entre la lógica de negocio, interfaz y acceso a datos.
+* **Marketplace** — Java 17, JavaFX, SQLite, MVC y DAO.
+* **Escáner de archivos** — Python, SSH/SFTP y systemd.
+* **Juego Zombies** — Python y Pygame.
 
 ---
 
-### 🛡️ Escáner de archivos
+## Actualmente aprendiendo
 
-Servicio desarrollado para la detección y monitoreo de archivos mediante conexiones remotas.
+[![Learning](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,docker)](https://skillicons.dev)
 
-**Tecnologías:** Python · SSH/SFTP · systemd
-
-Proyecto enfocado en automatización, comunicación entre sistemas y ejecución de servicios.
-
----
-
-## 🧠 Actualmente aprendiendo
-
-```text
-Java + Spring Boot
-JavaScript + TypeScript
-React
-Node.js + Express
-APIs REST
-Arquitectura de software
-Bases de datos SQL / NoSQL
-Docker
-Desarrollo Full Stack
-```
+* Desarrollo de APIs REST
+* Desarrollo Full Stack
+* Arquitectura de software
+* Bases de datos
+* Diseño y desarrollo de aplicaciones escalables
 
 ---
 
-## 📊 Mis áreas de interés
+## Formación
 
-```text
-Backend Development
-        ↓
-APIs REST
-        ↓
-Bases de Datos
-        ↓
-Arquitectura de Software
-        ↓
-Desarrollo Full Stack
-        ↓
-Sistemas escalables
-```
+**Ingeniería de Sistemas**
+Universidad Libre
+
+Actualmente cursando la carrera.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo profesional
 
-Mi objetivo es seguir desarrollando mis habilidades como **ingeniera de sistemas y desarrolladora de software**, participando en proyectos donde pueda aprender de otros desarrolladores, aplicar buenas prácticas y contribuir con soluciones reales.
-
-Actualmente estoy buscando oportunidades para **realizar mis prácticas profesionales y adquirir experiencia en el mundo del desarrollo de software**.
+Busco seguir desarrollándome en el área de software, ampliando mis conocimientos y adquiriendo experiencia en proyectos reales. Me interesa especialmente el desarrollo backend, las aplicaciones web y las bases de datos, y estoy abierta a nuevas oportunidades que me permitan aprender, aportar y seguir creciendo como desarrolladora.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-💼 **LinkedIn:** [Tu LinkedIn]
-
-📧 **Email:** [Tu correo]
-
-🐙 **GitHub:** [@SofiaRV03](https://github.com/SofiaRV03)
+**GitHub:** [SofiaRV03](https://github.com/SofiaRV03)
+**LinkedIn:** [Agregar LinkedIn]
+**Email:** [Agregar correo]
 
 ---
 
-⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en explorarlo!
+<p align="center">
+  <i>Siempre aprendiendo, construyendo y mejorando.</i>
+</p>
