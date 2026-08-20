@@ -2,7 +2,7 @@
 
 ### Estudiante de Ingeniería de Sistemas | Software Developer en formación
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad Libre, interesada en el desarrollo de software y en aprender nuevas tecnologías a través de proyectos prácticos.
+Soy estudiante de **Ingeniería de Sistemas** (7.º semestre) en la Universidad Libre, interesada en el desarrollo de software y en aprender nuevas tecnologías a través de proyectos prácticos.
 
 Durante mi formación he trabajado en el desarrollo de aplicaciones web y de escritorio, APIs, bases de datos SQL y NoSQL y diferentes arquitecturas de software. Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot, JavaScript, TypeScript y desarrollo Full Stack**.
 
@@ -133,7 +133,7 @@ Busco seguir desarrollándome en el área de software, ampliando mis conocimient
 
 **Ubicación:** Colombia
 
-**Email:** [sofiarestrepo072005@gmail.com]
+**Email:** sofiarestrepo072005@gmail.com
 
 **GitHub:** [@SofiaRV03](https://github.com/SofiaRV03)
 
